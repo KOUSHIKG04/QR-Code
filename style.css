@@ -37,12 +37,13 @@ input{
 
 .btn{
     margin: 8px 20px 10px 20px;
-    font-family: 'Indie Flower', cursive;
+ /* font-family: 'Indie Flower', cursive; */
+    font-family: "Noto Sans", sans-serif;
 }
 
 p{
-    /* font-family: "Noto Sans", sans-serif; */
-/*     font-family: 'Indie Flower', cursive; */
+    font-family: "Noto Sans", sans-serif;
+/*  font-family: 'Indie Flower', cursive; */
     font-size: 15px;
 }
 
